@@ -12,7 +12,7 @@ const Home = () => {
           <div className="text-center text-white">
             <h1 className="text-6xl font-bold mb-6">Welcome to the Kysha Site</h1>
             <p className="text-3xl mb-6">I am glad to have you here. Explore and enjoy!</p>
-            <NavLink to="/allproducts">
+            <NavLink to="/products">
               <button className="w-36 h-12 bg-blue-600 hover:bg-blue-700 transition duration-300 rounded text-white font-semibold shadow-md">
                 Explore Now
               </button>
