@@ -24,7 +24,7 @@ const Home = () => {
     
       <footer className="bg-gray-800 text-white py-8 w-screen">
         <div className="max-w-7xl mx-auto px-6 flex flex-col md:flex-row justify-between items-center">
-          <p className="text-sm mb-4 md:mb-0">&copy; 2024 Crisiah Shop. All Rights Reserved.</p>
+          <p className="text-sm mb-4 md:mb-0">&copy; 2024 Kysha Shop. All Rights Reserved.</p>
           <nav className="flex space-x-6">
             <NavLink to="/about" className="hover:text-blue-500 transition">
               About Us
